@@ -3,10 +3,10 @@
 An IT enthusiast with 10+ years of professional IT experience as a skilled engineer.
 Hard working, collaborative, open to innovation and learning. Quick to master new technologies.
 Keen team player and can equally work well alone or as part of a group.
-High attention to detail leading to goodtroubleshooting and problem-solving abilities.
+High attention to detail leading to good troubleshooting and problem-solving abilities.
 Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
 
-[Email](mailto:giuseppe.ingoglia@protonmail.com) / [Linkedin](https://www.linkedin.com/in/gmingoglia) 
+/assets/img/new-email.png [Email](mailto:giuseppe.ingoglia@protonmail.com) /assets/img/linkedin.png [Linkedin](https://www.linkedin.com/in/gmingoglia) 
 
 ### SKILLS AND TECHNOLOGIES
 
