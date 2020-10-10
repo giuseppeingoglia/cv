@@ -6,19 +6,19 @@ Keen team player and can equally work well alone or as part of a group.
 High attention to detail leading to good troubleshooting and problem-solving abilities.
 Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
 
-### SKILLS AND TECHNOLOGIES ![Skills](/assets/img/skill.png)
+**SKILLS AND TECHNOLOGIES**
 
-### EXPERIENCE
+**EXPERIENCE**
 
-### EDUCATION
+**EDUCATION**
 
-### ACTIVITIES AND INTERESTS
+**ACTIVITIES AND INTERESTS**
 
 Attended and completed a First Aid course in Italy.
 Founded a company with my brother producing Sicilian cuisine.
 Interests include: Technology and IT, Reading, Chess, Comics, Film, Live Music, Cinema and Rugby.
 
-### MISCELLANEOUS
+**MISCELLANEOUS**
 
 D.O.B. 19 November 1972
 Married
