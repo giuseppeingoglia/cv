@@ -6,7 +6,7 @@ Keen team player and can equally work well alone or as part of a group.
 High attention to detail leading to good troubleshooting and problem-solving abilities.
 Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
 
-### SKILLS AND TECHNOLOGIES
+![Skills](/assets/img/key-skills.png) ### SKILLS AND TECHNOLOGIES
 
 ### EXPERIENCE
 
