@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Giuseppe Ingoglia
 
-You can use the [editor on GitHub](https://github.com/giuseppeingoglia/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An IT enthusiast with 10+ years of professional IT experience as a skilled engineer.
+Hard working, collaborative, open to innovation and learning. Quick to master new technologies.
+Keen team player and can equally work well alone or as part of a group.
+High attention to detail leading to goodtroubleshooting and problem-solving abilities.
+Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:giuseppe.ingoglia@protonmail.com) / [Linkedin](https://www.linkedin.com/in/gmingoglia) 
 
-### Markdown
+### SKILLS AND TECHNOLOGIES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### EXPERIENCE
 
-```markdown
-Syntax highlighted code block
+### EDUCATION
 
-# Header 1
-## Header 2
-### Header 3
+### ACTIVITIES AND INTERESTS
 
-- Bulleted
-- List
+Attended and completed a First Aid course in Italy.
+Founded a company with my brother producing Sicilian cuisine.
+Interests include: Technology and IT, Reading, Chess, Comics, Film, Live Music, Cinema and Rugby.
 
-1. Numbered
-2. List
+### MISCELLANEOUS
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giuseppeingoglia/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+D.O.B. 19 November 1972
+Married
+Full UK driving license
+Right to work in the UK
