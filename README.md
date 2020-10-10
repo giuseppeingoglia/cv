@@ -1,4 +1,4 @@
-## Giuseppe Ingoglia [![new-email](/assets/img/new-email.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/linkedin.png)](https://www.linkedin.com/in/gmingoglia) 
+## Giuseppe Ingoglia [![new-email](/assets/img/open-email.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/linkedin.png)](https://www.linkedin.com/in/gmingoglia) 
 
 An IT enthusiast with 10+ years of professional IT experience as a skilled engineer.
 Hard working, collaborative, open to innovation and learning. Quick to master new technologies.
