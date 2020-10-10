@@ -1,12 +1,10 @@
-## Giuseppe Ingoglia
+## Giuseppe Ingoglia [![new-email](/assets/img/new-email.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/linkedin.png)](https://www.linkedin.com/in/gmingoglia) 
 
 An IT enthusiast with 10+ years of professional IT experience as a skilled engineer.
 Hard working, collaborative, open to innovation and learning. Quick to master new technologies.
 Keen team player and can equally work well alone or as part of a group.
 High attention to detail leading to good troubleshooting and problem-solving abilities.
 Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
-
-[![new-email](/assets/img/new-email.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/linkedin.png)](https://www.linkedin.com/in/gmingoglia) 
 
 ### SKILLS AND TECHNOLOGIES
 
@@ -26,3 +24,5 @@ D.O.B. 19 November 1972
 Married
 Full UK driving license
 Right to work in the UK
+
+[^]: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
