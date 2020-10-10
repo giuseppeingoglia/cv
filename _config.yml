@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title:
 logo: /assets/img/me_profile.ico
 description: Giuseppe Ingoglia's CV
 timezone: Europe/London
