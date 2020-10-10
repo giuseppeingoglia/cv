@@ -6,7 +6,7 @@ Keen team player and can equally work well alone or as part of a group.
 High attention to detail leading to good troubleshooting and problem-solving abilities.
 Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
 
-!(/assets/img/new-email.png) [Email](mailto:giuseppe.ingoglia@protonmail.com) /assets/img/linkedin.png [Linkedin](https://www.linkedin.com/in/gmingoglia) 
+![alt text](https://github.com/giuseppeingoglia/cv/blob/master/assets/img/new-email.png?raw=true)[Email](mailto:giuseppe.ingoglia@protonmail.com) [Linkedin](https://www.linkedin.com/in/gmingoglia) 
 
 ### SKILLS AND TECHNOLOGIES
 
