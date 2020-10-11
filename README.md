@@ -28,7 +28,7 @@ Brings great commitment, resolve to tasks and has excellent verbal and written c
 OCTOBER 2019 - PRESENT<br>
 DEVSECOPS SUPPORT, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
 
-- Support the deployment and the management of a containers cloud security platform for customers based in the EMEA region but not only.
+- Support the deployment and the management of a cloud native security platform for customers based in the EMEA region but not only.
   Implemented via a variety of technologies: Docker, Kubernetes, HELM, OpenShift, Rancher etc.
 - Support in troubleshooting customer environments in order to be successful using the provided platform. On premises, AWS, GCP, Azure.
 - Knowledge of host hardening procedures and image/containers security. Image security scanning, CIS benchmarks, SCAP, NVD, CVSS, CVE.
