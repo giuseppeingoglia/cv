@@ -1,4 +1,4 @@
-## Giuseppe Ingoglia [![new-email](/assets/img/email-24.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/linkedin-24.png)](https://www.linkedin.com/in/gmingoglia) 
+## Giuseppe Ingoglia [![new-email](/assets/img/icons8-email-50.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/icons8-linkedin-50.png)](https://www.linkedin.com/in/gmingoglia) 
 
 Dedicated IT professional with extensive experience as a skilled engineer. Known for a collaborative and innovative approach to problem-solving, with a keen ability to quickly adapt to new technologies. Possesses a strong attention to detail, facilitating effective troubleshooting and resolution of complex issues. A committed team player who excels both independently and within group settings. Demonstrates exceptional verbal and written communication skills, driving successful project outcomes and fostering positive team dynamics.
 
