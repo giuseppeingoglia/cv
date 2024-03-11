@@ -9,20 +9,20 @@ Brings great commitment, resolve to tasks and has excellent verbal and written c
 
 ------
 **SKILLS AND TECHNOLOGIES**
-```
+
 :pushpin: Linux System Admin (Debian, Ubuntu)
-### Image/Container Security (NVD CVSS CVE)
-### Docker and Kubernetes on-prem & in-cloud
-### Exposure to RKE, OKD, AWS, GCP, Azure
-### VirtualBox, VMWare, Vagrant
-### BASH Scripting, HELM Charts
-### PostgreSQL
-### Monitoring with Nagios
-### Fluent Italian and English
-### Documentation, Atlassian
-### Troubleshooting & Support
-### Communications & Training
-```
+:pushpin: Image/Container Security (NVD CVSS CVE)
+:pushpin: Docker and Kubernetes on-prem & in-cloud
+:pushpin: Exposure to RKE, OKD, AWS, GCP, Azure
+:pushpin: VirtualBox, VMWare, Vagrant
+:pushpin: BASH Scripting, HELM Charts
+:pushpin: PostgreSQL
+:pushpin: Monitoring with Nagios
+:pushpin: Fluent Italian and English
+:pushpin: Documentation, Atlassian
+:pushpin: Troubleshooting & Support
+:pushpin: Communications & Training
+
 **EXPERIENCE**
 
 OCTOBER 2019 - PRESENT<br>
