@@ -1,11 +1,6 @@
 ## Giuseppe Ingoglia [![new-email](/assets/img/email-24.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/linkedin-24.png)](https://www.linkedin.com/in/gmingoglia) 
 
-An IT enthusiast with 10+ years of professional experience as a skilled engineer.<br>
-Hard working, collaborative, open to innovation and learning.<br>
-Quick to master new technologies.<br>
-Keen team player and can equally work well alone or as part of a group.<br>
-High attention to detail leading to good troubleshooting and problem-solving abilities.<br>
-Brings great commitment, resolve to tasks and has excellent verbal and written communication skills.
+Dedicated IT professional with extensive experience as a skilled engineer. Known for a collaborative and innovative approach to problem-solving, with a keen ability to quickly adapt to new technologies. Possesses a strong attention to detail, facilitating effective troubleshooting and resolution of complex issues. A committed team player who excels both independently and within group settings. Demonstrates exceptional verbal and written communication skills, driving successful project outcomes and fostering positive team dynamics.
 
 ------
 **SKILLS AND TECHNOLOGIES**
@@ -73,6 +68,7 @@ FIRST LINE ENGINEER, <a href="https://www.stanleybetcorporate.com/en/">STANLEYBE
 
 **EDUCATION**
 
+- 2021 Certified Kubernetes Administrator <a href="https://www.credly.com/badges/ec9d0874-7413-4f69-817b-ba1df5eb1562?source=linked_in_profile&trk=public_profile_see-credential">(CKA)</a>
 - 2019 LINUX ACADEMY Docker Deep Dive, Kubernetes Essentials, DevSecOps Essentials, AWS Essentials, AWS Concepts, Docker Quick Start.
 - AUGUST 2001 HND PROFESSIONAL MEDIA, LIVERPOOL COMMUNITY COLLEGE Adobe Premiere, FinalCut Pro, Dreamweaver, Photoshop, Camera work, AVID Editing.
 - JULY 1991 TEACHING DIPLOMA, LICEO SCIENZE UMANE Classical studies and literature.
