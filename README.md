@@ -1,4 +1,4 @@
-## Giuseppe Ingoglia [![new-email](/assets/img/icons8-email-50.png)](mailto:giuseppe.ingoglia@protonmail.com) [![Linkedin](/assets/img/icons8-linkedin-50.png)](https://www.linkedin.com/in/gmingoglia) 
+## Giuseppe Ingoglia
 
 Dedicated IT professional with extensive experience as a skilled engineer. Known for a collaborative and innovative approach to problem-solving, with a keen ability to quickly adapt to new technologies. Possesses a strong attention to detail, facilitating effective troubleshooting and resolution of complex issues. A committed team player who excels both independently and within group settings. Demonstrates exceptional verbal and written communication skills, driving successful project outcomes and fostering positive team dynamics.
 
@@ -86,5 +86,8 @@ D.O.B. 19 November 1972<br>
 Married<br>
 Full UK driving license<br>
 Right to work in the UK<br>
+
+[![new-email](/assets/img/icons8-email-50.png)](mailto:giuseppe.ingoglia@protonmail.com)
+[![Linkedin](/assets/img/icons8-linkedin-50.png)](https://www.linkedin.com/in/gmingoglia) 
 
 [^]: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
