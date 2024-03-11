@@ -5,18 +5,18 @@ Dedicated IT professional with extensive experience as a skilled engineer. Known
 ------
 **SKILLS AND TECHNOLOGIES**
 
-:pushpin: Linux System Admin (Debian, Ubuntu)<br>
-:pushpin: Image/Container Security (NVD CVSS CVE)<br>
-:pushpin: Docker and Kubernetes on-prem & in-cloud<br>
-:pushpin: Exposure to RKE, OKD, AWS, GCP, Azure<br>
-:pushpin: VirtualBox, VMWare, Vagrant<br>
-:pushpin: BASH Scripting, HELM Charts<br>
-:pushpin: PostgreSQL<br>
-:pushpin: Monitoring with Nagios<br>
-:pushpin: Fluent Italian and English<br>
-:pushpin: Documentation, Atlassian<br>
-:pushpin: Troubleshooting & Support<br>
-:pushpin: Communications & Training<br>
+- Linux System Admin (Debian, Ubuntu)<br>
+- Image/Container Security (NVD CVSS CVE)<br>
+- Docker and Kubernetes on-prem & in-cloud<br>
+- Exposure to RKE, OKD, AWS, GCP, Azure<br>
+- VirtualBox, VMWare, Vagrant<br>
+- BASH Scripting, HELM Charts<br>
+- PostgreSQL<br>
+- Monitoring with Nagios<br>
+- Fluent Italian and English<br>
+- Documentation, Atlassian<br>
+- Troubleshooting & Support<br>
+- Communications & Training<br>
 
 **EXPERIENCE**
 
