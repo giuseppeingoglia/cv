@@ -10,7 +10,7 @@ Brings great commitment, resolve to tasks and has excellent verbal and written c
 ------
 **SKILLS AND TECHNOLOGIES**
 ```
-### Linux System Admin (Debian, Ubuntu)
+:pushpin: Linux System Admin (Debian, Ubuntu)
 ### Image/Container Security (NVD CVSS CVE)
 ### Docker and Kubernetes on-prem & in-cloud
 ### Exposure to RKE, OKD, AWS, GCP, Azure
