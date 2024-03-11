@@ -87,7 +87,7 @@ Married<br>
 Full UK driving license<br>
 Right to work in the UK<br>
 
-[![new-email](/assets/img/icons8-email-50.png =100%x)](mailto:giuseppe.ingoglia@protonmail.com)
-[![Linkedin](/assets/img/icons8-linkedin-50.png =100%x)](https://www.linkedin.com/in/gmingoglia)
+[![Linkedin](/assets/img/icons8-linkedin-50.png)](https://www.linkedin.com/in/gmingoglia)
+[![new-email](/assets/img/icons8-email-50.png)](mailto:giuseppe.ingoglia@protonmail.com)
 
 [^]: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
