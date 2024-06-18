@@ -23,6 +23,8 @@ Dedicated IT professional with extensive experience as a skilled engineer. Known
 OCTOBER 2019 - PRESENT<br>
 PRINCIPAL DEVSECOPS SUPPORT ENGINEER, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
 
+- Technically support customer security posture both on-premises and in the cloud.
+- Leading the EMEA support team.
 - Support the deployment and the management of a cloud native security platform for customers based in the EMEA region but not only.
   Implemented via a variety of technologies: Docker, Kubernetes, HELM, OpenShift, Rancher etc.
 - Support in troubleshooting customer environments in order to be successful using the provided platform. On premises, AWS, GCP, Azure.
