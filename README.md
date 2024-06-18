@@ -21,7 +21,7 @@ Dedicated IT professional with extensive experience as a skilled engineer. Known
 **EXPERIENCE**
 
 OCTOBER 2019 - PRESENT<br>
-DEVSECOPS SUPPORT, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
+PRINCIPAL DEVSECOPS SUPPORT ENGINEER, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
 
 - Support the deployment and the management of a cloud native security platform for customers based in the EMEA region but not only.
   Implemented via a variety of technologies: Docker, Kubernetes, HELM, OpenShift, Rancher etc.
