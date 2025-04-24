@@ -2,7 +2,6 @@
 
 Experienced IT professional with over 15 years of progressive leadership in technical support, recently promoted from Team Lead to Principal Engineer. Specialized in cloud-native security platforms, DevSecOps, and customer success enablement. Proven ability to design scalable support architectures, lead high-performing teams, and deliver exceptional customer outcomes through strategic collaboration with product and engineering. Adept at driving customer adoption, retention, and satisfaction by bridging technical expertise with business needs.
 
-------
 ### SKILLS AND TECHNOLOGIES
 
 - **Cloud & Container Platforms:** Kubernetes, Docker, OpenShift, Rancher, AWS, GCP, Azure.
@@ -31,8 +30,6 @@ DEVSECOPS SUPPORT, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD
 - Close collaboration with developers and DevOps teams in improving the product via JIRA and RFE processes.
 - Using ITSM tools for logging and managing incidents (Freshdesk, Atlassian Suite).
 - Responsible for the management of major incidents.
-
----
 
 JUNE 2010 - SEPTEMBER 2019
 <a href="https://www.magellanrobotech.com/en/">MAGELLAN ROBOTECH</a> & <a href="https://www.stanleybetcorporate.com/en/">STANLEYBET INTERNATIONAL</a>
@@ -68,27 +65,21 @@ FIRST LINE ENGINEER (June 2010 – December 2015)
 - Used ITSM tools (OTRS, Atlassian Suite) for incident management.
 - Managed major incidents.
 
----
-
 ### EDUCATION
 
 - AUGUST 2001 HND PROFESSIONAL MEDIA, LIVERPOOL COMMUNITY COLLEGE Adobe Premiere, FinalCut Pro, Dreamweaver, Photoshop, Camera work, AVID Editing.
 - JULY 1991 TEACHING DIPLOMA, LICEO SCIENZE UMANE Classical studies and literature.
 
----
-
 ### ACTIVITIES AND INTERESTS
 
-Attended and completed a First Aid course in Italy.
-Founded a company with my brother producing Sicilian cuisine.
-Interests include: Technology and IT, Reading, Chess, Comics, Film, Live Music, Cinema, Rugby, DIY, Gardening.
-
----
+Attended and completed a First Aid course in Italy.<br>
+Founded a company with my brother producing Sicilian cuisine.<br>
+Interests include: Technology and IT, Reading, Chess, Comics, Film, Live Music, Cinema, Rugby, DIY, Gardening.<br>
 
 ### MISCELLANEOUS
 
-D.O.B. 19 November 1972
-Married Full UK driving license
+D.O.B. 19 November 1972<br>
+Married Full UK driving license<br>
 Right to work in the UK
 
 <div style="text-align: center"><a href="mailto:giuseppe.ingoglia@protonmail.com">giuseppe.ingoglia@protonmail.com</a> · <a href="https://www.linkedin.com/in/gmingoglia">linkedin.com/in/gmingoglia</a></div>
