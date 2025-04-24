@@ -19,6 +19,25 @@ Experienced IT professional with over 15 years of progressive leadership in tech
 
 ### EXPERIENCE
 
+APR 2024 - PRESENT
+PRINCIPAL DEVSECOPS SUPPORT ENGINEER, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
+
+- Led the support team in providing exceptional customer service for Aqua's on-prem and SaaS security platforms.
+- Automated support processes to enhance efficiency and reduce response times.
+- Collaborated with cross-functional teams to identify and resolve security vulnerabilities in customer on-premises and cloud environments.
+- Provided expert guidance on security policies, procedures, and technologies to internal teams and customers.
+- Mentored junior support engineers, fostering a culture of continuous improvement.
+
+JULY 2022 - APR 2024
+TECHNICAL TEAM LEAD, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
+
+- Managed a team of support engineers, overseeing customer service operations and ensuring timely resolution of issues.
+- Coordinated support activities and resources, balancing technical and customer requirements.
+- Implemented best practices for customer support, including ticket management, troubleshooting, and documentation.
+- Resolved complex technical issues and provided support to team members, promoting a collaborative and productive work environment.
+- Facilitated communication between stakeholders, ensuring alignment on support goals and objectives.
+- Led initiatives to improve team performance and efficiency, such as training programs and process optimizations.
+
 OCTOBER 2019 - JULY 2022
 DEVSECOPS SUPPORT, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
 
