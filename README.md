@@ -91,7 +91,4 @@ D.O.B. 19 November 1972
 Married Full UK driving license
 Right to work in the UK
 
-[![Linkedin](/assets/img/icons8-linkedin-50.png)](https://www.linkedin.com/in/gmingoglia)
-[![new-email](/assets/img/icons8-email-50.png)](mailto:giuseppe.ingoglia@protonmail.com)
-
-[^]: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+<div style="text-align: center"><a href="mailto:giuseppe.ingoglia@protonmail.com">giuseppe.ingoglia@protonmail.com</a> · <a href="https://www.linkedin.com/in/gmingoglia">linkedin.com/in/gmingoglia</a></div>
