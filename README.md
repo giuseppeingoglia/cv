@@ -86,9 +86,12 @@ FIRST LINE ENGINEER (June 2010 – December 2015)
 
 ### EDUCATION
 
-- AUGUST 2001 HND PROFESSIONAL MEDIA, <a href="https://liv-coll.ac.uk">LIVERPOOL COMMUNITY COLLEGE</a>
+AUGUST 2001
+HND PROFESSIONAL MEDIA, <a href="https://liv-coll.ac.uk">LIVERPOOL COMMUNITY COLLEGE</a>
   Adobe Premiere, FinalCut Pro, Dreamweaver, Photoshop, Camera work, AVID Editing.
-- JULY 1991 TEACHING DIPLOMA, <a href="https://liceicastelvetrano.edu.it/struttura/lic-scienze-umane-g-gentile-c-vetrano">LICEO SCIENZE UMANE</a>
+  
+JULY 1991
+TEACHING DIPLOMA, <a href="https://liceicastelvetrano.edu.it/struttura/lic-scienze-umane-g-gentile-c-vetrano">LICEO SCIENZE UMANE</a>
   Classical studies and literature.
 
 ### ACTIVITIES AND INTERESTS
