@@ -1,109 +1,84 @@
 ## Giuseppe Massimiliano Ingoglia
 
-Experienced IT professional with over 15 years of progressive leadership in technical support, recently promoted from Team Lead to Principal Engineer. Specialized in cloud-native security platforms, DevSecOps, and customer success enablement. Proven ability to design scalable support architectures, lead high-performing teams, and deliver exceptional customer outcomes through strategic collaboration with product and engineering. Adept at driving customer adoption, retention, and satisfaction by bridging technical expertise with business needs.
+Principal DevSecOps Support Engineer with over 15 years in IT, including 6+ years specialising in cloud-native technologies, containerisation, and DevSecOps practices.
+Currently leading EMEA support operations at Aqua Security, enabling enterprise customers to deploy, secure, and scale workloads across Kubernetes, Docker, OpenShift, and major cloud platforms (AWS, Azure, GCP) in both SaaS and on-prem environments.
+Combines strong technical expertise in container orchestration, automation, and cloud platform security with a consultative, customer-focused approach that bridges technical solutions and business outcomes.
+Pursuing AWS Architect certification, with a long-term focus on Cloud Architecture and Customer Success Enablement.
 
-### SKILLS AND TECHNOLOGIES
+### CORE COMPETENCIES
 
-- **Cloud & Container Platforms:** Kubernetes, Docker, OpenShift, Rancher, AWS, GCP, Azure.
-- **Security & Compliance:** Image security scanning (NVD, CVSS, CVE), CIS benchmarks, software supply chain security.
-- **DevSecOps & Automation:** HELM charts, CI/CD pipelines, BASH scripting, Jenkins, Git Actions, ArgoCD.
-- **Linux & Infrastructure:** Debian/Ubuntu administration, PostgreSQL, virtualization, Terraform.
-- **Incident Management & Monitoring:** Major incident coordination, ITSM tools (Freshdesk, Atlassian Suite), Nagios, DataDog, 
-- **Customer Success & Support:** Customer journey mapping, technical consulting, help onboarding, retention strategies.
+- **Customer Success & Engagement** – Success planning, onboarding, retention, enablement.
+- **Cloud & DevSecOps** – Kubernetes, Docker, GitLab, ArgoCD, Jenkins, CI/CD, Helm.
+- **Cloud Platforms** – AWS, Azure, GCP, OpenShift.
+- **Security & Compliance** – CVE/CVSS, CIS Benchmarks, Supply Chain Security, NVD scanning.
+- **Automation & Infrastructure** – Terraform, Bash scripting, Git Actions, PostgreSQL, Linux administration.
+- **Leadership & Mentoring** – Team enablement, major incident management, escalation ownership.
+- **Collaboration** – Cross-functional alignment with Product, Engineering, and Professional Services.
+
+### PROFESSIONAL EXPERIENCE
+
+<a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a> - UK / Remote
+
+**PRINCIPAL DEVSECOPS SUPPORT ENGINEER** - APR 2024 - PRESENT
+
+- Lead EMEA support strategy for Aqua’s SaaS and on-prem security platforms, ensuring rapid adoption and retention.
+- Act as technical advisor to key enterprise customers, aligning platform usage to business outcomes.
+- Partner with Product and Engineering on escalations, vulnerability management, and feature enablement.
+- Lead continuous improvement initiatives through both manual and AI-assisted automation, streamlining operations and boosting customer satisfaction metrics.
+- Collaborated cross-functionally with Sales, Product, and Success teams to bridge technical and business goals.
+
+**TECHNICAL TEAM LEAD** - JULY 2022 - APR 2024
+
+- Managed a distributed team of DevSecOps engineers across EMEA, ensuring world-class technical support delivery.
+- Translated customer escalations into structured success plans, helping reduce the frequency and impact of major incidents.
+- Designed playbooks and workflows that enhanced onboarding and customer adoption metrics.
+- Mentor team members globally, fostering a customer-first mindset and continuous learning culture.
+
+**DEVSECOPS SUPPORT** - OCTOBER 2019 - JULY 2022
+
+- Supported customer deployments of Aqua’s container security solutions across AWS, GCP, Azure, and on-prem environments.
+- Delivered best-practice guidance for Kubernetes, Docker, Helm, and CI/CD integrations.
+- Created and maintained internal knowledge bases and customer enablement documentation.
+- Drove customer success during onboarding and upgrade cycles.
+
+<a href="https://www.magellanrobotech.com/en/">MAGELLAN ROBOTECH</a> & <a href="https://www.stanleybetcorporate.com/en/">STANLEYBET INTERNATIONAL</a> - (2010 - 2019)
+
+**VARIOUS ENGINEERING ROLES**
+
+Progressed from First Line Engineer to Linux & Application Support, managing large-scale Linux environments and automation initiatives across EMEA.
+Led projects to improve deployment automation, monitoring, and database performance using tools such as Jenkins, Chef, Nagios, and Graylog.
+Built a strong foundation in infrastructure management, incident response, and system reliability that underpins my current DevSecOps and customer success work.
 
 ### CERTIFICATIONS & TRAINING
 
-- <a href="https://www.credly.com/badges/ec9d0874-7413-4f69-817b-ba1df5eb1562?source=linked_in_profile">Certified Kubernetes Administrator (CKA )</a>
-- Architecting on AWS.
-- Linux Academy (2019): Docker Deep Dive, Kubernetes Essentials, DevSecOps Essentials, AWS Essentials, AWS Concepts, Docker Quick Start.
-
-### EXPERIENCE
-
-APR 2024 - PRESENT
-PRINCIPAL DEVSECOPS SUPPORT ENGINEER, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
-
-- Leading the support team in providing exceptional customer service for Aqua's on-prem and SaaS security platforms.
-- Automating support processes to enhance efficiency and reduce response times.
-- Collaborating with cross-functional teams to identify and resolve security vulnerabilities in customer on-premises and cloud environments.
-- Providing expert guidance on security policies, procedures, and technologies to internal teams and customers.
-- Mentoring junior support engineers, fostering a culture of continuous improvement.
-
-JULY 2022 - APR 2024
-TECHNICAL TEAM LEAD, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
-
-- Managed a team of support engineers, overseeing customer service operations and ensuring timely resolution of issues.
-- Coordinated support activities and resources, balancing technical and customer requirements.
-- Implemented best practices for customer support, including ticket management, troubleshooting, and documentation.
-- Resolved complex technical issues and provided support to team members, promoting a collaborative and productive work environment.
-- Facilitated communication between stakeholders, ensuring alignment on support goals and objectives.
-- Led initiatives to improve team performance and efficiency, such as training programs and process optimizations.
-
-OCTOBER 2019 - JULY 2022
-DEVSECOPS SUPPORT, <a href="https://www.aquasec.com/">AQUA SECURITY SOFTWARE LTD</a>
-
-- Support the deployment and the management of a cloud native security platform for customers based in the EMEA region but not only.
-  Implemented via a variety of technologies: Docker, Kubernetes, HELM, OpenShift, Rancher etc.
-- Support in troubleshooting customer environments in order to be successful using the provided platform. On premises, AWS, GCP, Azure.
-- Knowledge of host hardening procedures and image/containers security. Image security scanning, CIS benchmarks, SCAP, NVD, CVSS, CVE.
-- Provide guidance and documentation, writing knowledge base articles.
-- Close collaboration with developers and DevOps teams in improving the product via JIRA and RFE processes.
-- Using ITSM tools for logging and managing incidents (Freshdesk, Atlassian Suite).
-- Responsible for the management of major incidents.
-
-JUNE 2010 - SEPTEMBER 2019
-<a href="https://www.magellanrobotech.com/en/">MAGELLAN ROBOTECH</a> & <a href="https://www.stanleybetcorporate.com/en/">STANLEYBET INTERNATIONAL</a>
-
-LINUX & APPLICATION SUPPORT ENGINEER (May 2017 – September 2019)
-
-- Administered ~800 Linux systems (Debian, Ubuntu).
-- Provided on-call support for EMEA live bespoke Bet Management Systems.
-- Deployed and managed applications using DevOps tools (Git, Jenkins, Chef).
-- Managed configuration for all Linux systems using Chef.
-- Administered and designed PostgreSQL databases.
-- Implemented Central Log Management using GrayLog and ElasticSearch.
-- Automated tasks and optimized processes with scripting (Bash, Python, SQL, PowerShell).
-- Improved custom Nagios monitoring platform with passive checks, event handlers, and SSH plugins.
-
-INFRASTRUCTURE ENGINEER (January 2016 – April 2017)
-
-- Managed servers (HPE) and datacenters across EMEA.
-- Administered VMWare 5.5/6.5 environments.
-- Administered Linux systems (Debian, Ubuntu).
-- Migrated Citrix setup from 4.5 to XenApp 6.
-- Deployed Windows Deployment Toolkit, improving system delivery and management.
-- Designed and implemented a Nagios-based monitoring solution.
-- Managed Mobile Data Collection (MDC).
-
-FIRST LINE ENGINEER (June 2010 – December 2015)
-
-- Administered user accounts and workstations.
-- Managed Windows platform (AD, Exchange, File & Print servers).
-- Supported bespoke gaming applications.
-- Provided Citrix user support (XenApp 4.5, RSA).
-- Supported mobile devices (Android, BES, iPhone).
-- Used ITSM tools (OTRS, Atlassian Suite) for incident management.
-- Managed major incidents.
+- <a href="https://www.credly.com/badges/ec9d0874-7413-4f69-817b-ba1df5eb1562?source=linked_in_profile">Certified Kubernetes Administrator (CKA )</a> (The Linux Foundation, 2021–2024)
+- **Architecting on AWS** (2024, Amazon Web Services)
+- **Linux Academy Courses:** Docker Deep Dive, Kubernetes Essentials, DevSecOps Essentials, AWS Essentials
 
 ### EDUCATION
 
-AUGUST 2001<br>
-HND PROFESSIONAL MEDIA, <a href="https://liv-coll.ac.uk">LIVERPOOL COMMUNITY COLLEGE</a><br>
-  Adobe Premiere, FinalCut Pro, Dreamweaver, Photoshop, Camera work, AVID Editing.
-  
-JULY 1991<br>
-TEACHING DIPLOMA, <a href="https://liceicastelvetrano.edu.it/struttura/lic-scienze-umane-g-gentile-c-vetrano">LICEO SCIENZE UMANE</a><br>
-  Classical studies and literature.
+**HND PROFESSIONAL MEDIA** <a href="https://liv-coll.ac.uk">LIVERPOOL COMMUNITY COLLEGE</a>
+Adobe Premiere, FinalCut Pro, Dreamweaver, Photoshop, Camera work, AVID Editing.
 
-### ACTIVITIES AND INTERESTS
+**TEACHING DIPLOMA**  <a href="https://liceicastelvetrano.edu.it/struttura/lic-scienze-umane-g-gentile-c-vetrano">LICEO SCIENZE UMANE</a>
+Classical studies and literature.
 
-Attended and completed a First Aid course in Italy.<br>
-Founded a company with my brother producing Sicilian cuisine.<br>
-Interests include: Technology and IT, Reading, Chess, Comics, Film, Live Music, Cinema, Rugby, DIY, Gardening.<br>
+### PROFESSIONAL RECOMMENDATIONS
 
-### MISCELLANEOUS
+> *“Giuseppe brings calm and clarity to complex situations and always goes the extra mile for both customers and teammates. His professionalism, positive energy, and reliability make him a key contributor to any team.”*
+> — **Uri Ilan**, Director of Managed Services, Aqua Security
 
-D.O.B. 19 November 1972<br>
-Married Full UK driving license<br>
-Right to work in the UK
+> *“A winning combination of solid technical skills and business sense. His hands-on approach, leadership, and organizational abilities have been invaluable to the company.”*
+> — **Robson Fudoli Messias**, Cloud Engineer (AWS | GCP | Azure | DevOps)
+
+> *“Fantastically enthusiastic, thorough, and always keen to learn new technologies. A true team player who delivers with urgency and precision.”*
+> — **Karl Hughes**, Head of AI Taskforce, Acorn Insurance
+
+> *“A skilled, considerate engineer with a can-do attitude who instinctively lifts the morale of those around him. Constantly challenges himself and the team to improve.”*
+> — **Alan Dominey**, IT Security Consultant, Barclays
+
+### PERSONAL DETAILS
+
+Right to Work in the UK | Full UK Driving License | Married
 
 <div style="text-align: center"><a href="mailto:giuseppe.ingoglia@protonmail.com">giuseppe.ingoglia@protonmail.com</a> · <a href="https://www.linkedin.com/in/gmingoglia">linkedin.com/in/gmingoglia</a></div>
