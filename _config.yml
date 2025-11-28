@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: Giuseppe M. Ingoglia
+title: Giuseppe Ingoglia
 logo: /assets/img/me.jpeg
-description: Giuseppe Massimiliano Ingoglia's CV
+description: "DevSecOps Engineer | Customer Success Focus"
 timezone: Europe/London
 plugins:
   - jemoji
