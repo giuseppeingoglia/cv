@@ -1,3 +1,5 @@
+### PROFILE SUMMARY
+
 Principal DevSecOps Support Engineer with over 15 years in IT, including 6+ years specialising in cloud-native technologies, containerisation, and DevSecOps practices.
 Currently leading EMEA support operations at Aqua Security, enabling enterprise customers to deploy, secure, and scale workloads across Kubernetes, Docker, OpenShift, and major cloud platforms (AWS, Azure, GCP) in both SaaS and on-prem environments.
 Combines strong technical expertise in container orchestration, automation, and cloud platform security with a consultative, customer-focused approach that bridges technical solutions and business outcomes.
